@@ -1,5 +1,5 @@
 <template>
-  <div></div>
+  <div>gir</div>
 </template>
 
 <script>
