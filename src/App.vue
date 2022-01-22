@@ -8,11 +8,13 @@
 
 <script>
 import HelloWorld from "./components/HelloWorld.vue";
+import NewBranch from "./components/NewBranch.vue";
 
 export default {
   name: "App",
   components: {
     HelloWorld,
+    NewBranch,
   },
 };
 </script>
