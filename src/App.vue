@@ -3,6 +3,7 @@
     <img alt="Vue logo" src="./assets/logo.png" />
     <HelloWorld msg="Welcome to Your Vue.js App" />
     <h2>This is my second change that i want tell to Git!</h2>
+    <h4>this is from hello world Images</h4>
   </div>
 </template>
 
