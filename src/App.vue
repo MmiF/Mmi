@@ -6,6 +6,7 @@
     <h4>this is from hello world Images</h4>
   <h3>dfhlkdfjglkf,g;,dfflkhmd.mfldkmnkjffnsd</h3>
   <h1>fddljbdfkjgpsdldfpnhoskfpalffmkg</h1>
+  <h2>Wow this is amazing</h2>
   </div>
 </template>
 
