@@ -5,7 +5,7 @@ yo this is the second line
 ```
 npm install
 ```
-
+i write this when i create vue-skeleton
 ### Compiles and hot-reloads for development
 ```
 npm run serve
