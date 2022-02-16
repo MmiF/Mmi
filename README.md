@@ -10,7 +10,7 @@ i write this when i create vue-skeleton
 ```
 npm run serve
 ```
-
+change in read me file
 ### Compiles and minifies for production
 ```
 npm run build
