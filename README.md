@@ -5,12 +5,12 @@ yo this is the second line
 ```
 npm install
 ```
-
+i write this when i create vue-skeleton
 ### Compiles and hot-reloads for development
 ```
 npm run serve
 ```
-
+change in read me file
 ### Compiles and minifies for production
 ```
 npm run build
